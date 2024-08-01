@@ -24,7 +24,7 @@ ChatCSV is an AI-powered chatbot application that allows users to interact with 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/ChatCSV.git
+    git clone https://github.com/xmpuspus/ChatCSV.git
     cd ChatCSV
     ```
 
